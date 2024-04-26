@@ -1,5 +1,5 @@
-# Academic Success and Dropout Rate Analysis 
-
+# Academic Success and Dropout Rate Analysis
+[Link to the tableau Dashboard](https://public.tableau.com/app/profile/ritesh.kumar.singh2841/viz/StudentEnrollmentAnalysis/Dashboard2?publish=yes)
 ## Overview
 
 This project aims to analyze the success and dropout rates of students from higher education institutions across Europe in the year 2021. By leveraging data on academic paths, demographics, and socio-economic factors, our team seeks to identify students at risk of dropping out early to enable targeted interventions and support.
@@ -34,9 +34,7 @@ The dataset was sourced from the UCI Machine Learning Repository and consists of
 
 ## Dashboard
 
-A comprehensive Tableau dashboard is available to explore the dataset visually.
-
-[Link to the Dashboard](https://public.tableau.com/app/profile/ritesh.kumar.singh2841/viz/StudentEnrollmentAnalysis/Dashboard2?publish=yes)
+A comprehensive Tableau dashboard link is attached above to explore the dataset visually.
 
 ## Conclusion
 
